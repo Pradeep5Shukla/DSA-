@@ -18,7 +18,7 @@ public:
     }
     int minEatingSpeed(vector<int>& piles, int h) {
         int n = piles.size();
-        int left = 0;
+        int left = 1;
         int right = findmax(piles);
         int ans = INT_MAX;
         while(right>=left){
