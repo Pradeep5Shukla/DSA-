@@ -23,7 +23,7 @@ public:
         int ans = INT_MAX;
         while(right>=left){
             int mid = left + (right-left)/2;
-            int totalhr = hr(piles,mid,n);
+            long long totalhr = hr(piles,mid,n);
             if(totalhr<=h){
                 ans = mid;
                 right = mid-1;
