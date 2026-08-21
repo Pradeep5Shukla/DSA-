@@ -9,7 +9,7 @@ public:
         }
         return maxval;
     }
-    int hr(vector<int> arr , int h ,int n){
+    long  hr(vector<int> arr , int h ,int n){
         int totalhr = 0;
         for(int i = 0;i<n ; i++){
             totalhr+=ceil((double)arr[i]/(double)h);
@@ -18,7 +18,7 @@ public:
     }
     int minEatingSpeed(vector<int>& piles, int h) {
         int n = piles.size();
-        int left = 0;
+        int left = 1;
         int right = findmax(piles);
         int ans = INT_MAX;
         while(right>=left){
