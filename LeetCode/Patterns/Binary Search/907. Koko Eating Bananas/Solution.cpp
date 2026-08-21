@@ -9,8 +9,8 @@ public:
         }
         return maxval;
     }
-    int hr(vector<int> arr , int h ,int n){
-        int totalhr = 0;
+    long long  hr(vector<int> arr , int h ,int n){
+        long long totalhr = 0;
         for(int i = 0;i<n ; i++){
             totalhr+=ceil((double)arr[i]/(double)h);
         }
