@@ -11,18 +11,18 @@ public:
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int low = 1 ;
-        int ans = -1; 
+        // int ans = -1; 
         int high = *max_element(nums.begin(),nums.end());
         while(high>=low){
             int mid = low+(high-low);
             if(sumbyD(nums,mid) <= threshold){
-                ans = mid;
+                // ans = mid;
                 high = mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        return ans;
+        return low;
     }
 };
