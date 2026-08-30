@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 3 / 76 (3.9%)
+- **Completed:** 4 / 76 (5.3%)
 
 ---
 
@@ -39,7 +39,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Remove Nth Node From End of List](./C++/Medium/19. Remove Nth Node From End of List/)
 - [ ] Add Two Numbers
 - [x] [Delete Node in a Linked List](./C++/Medium/237. Delete Node in a Linked List/)
-- [ ] Intersection of Two Linked Lists
+- [x] [Intersection of Two Linked Lists](./C++/Easy/160. Intersection of Two Linked Lists/)
 - [ ] Linked List Cycle
 - [ ] Reverse Nodes in k-Group
 - [ ] Palindrome Linked List
