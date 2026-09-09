@@ -3,7 +3,7 @@
 Track your progress on the Striver's SDE Sheet top interview problems.
 
 ## Progress
-- **Completed:** 13 / 76 (17.1%)
+- **Completed:** 14 / 76 (18.4%)
 
 ---
 
@@ -37,7 +37,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [x] [Middle of the Linked List](./C++/Easy/908. Middle of the Linked List/)
 - [x] [Merge Two Sorted Lists](./C++/Easy/21. Merge Two Sorted Lists/)
 - [x] [Remove Nth Node From End of List](./C++/Medium/19. Remove Nth Node From End of List/)
-- [ ] Add Two Numbers
+- [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
 - [x] [Delete Node in a Linked List](./C++/Medium/237. Delete Node in a Linked List/)
 - [x] [Intersection of Two Linked Lists](./C++/Easy/160. Intersection of Two Linked Lists/)
 - [x] [Linked List Cycle](./C++/Easy/141. Linked List Cycle/)
