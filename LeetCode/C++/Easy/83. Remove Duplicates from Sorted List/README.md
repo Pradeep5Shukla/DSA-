@@ -1,6 +1,6 @@
 # 📝 83. Remove Duplicates from Sorted List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+🔗 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Linked List
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
