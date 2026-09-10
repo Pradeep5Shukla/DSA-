@@ -8,8 +8,8 @@
 Linked List
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 12 ms
+- **Memory:** 16.1 MB
 
 ---
 
