@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 11 / 150 (7.3%)
+- **Completed:** 12 / 150 (8.0%)
 
 ---
 
@@ -61,7 +61,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Copy List with Random Pointer
 - [x] [Add Two Numbers](./C++/Medium/2. Add Two Numbers/)
 - [x] [Linked List Cycle](./C++/Easy/141. Linked List Cycle/)
-- [ ] Find the Duplicate Number
+- [x] [Find the Duplicate Number](./C++/Medium/287. Find the Duplicate Number/)
 - [ ] LRU Cache
 - [ ] Merge k Sorted Lists
 - [ ] Reverse Nodes in k-Group
