@@ -8,8 +8,8 @@
 Array, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 24.5 MB
 
 ---
 
