@@ -27,7 +27,7 @@ public:
 
         if(head == nullptr || head->next == nullptr) return head;
         
-        ListNode* newHead = head->next;   // second node becomes the new head
+        ListNode* newHead = head->next;   
         ListNode* prev = nullptr;
         ListNode* curr = head;
         
@@ -38,10 +38,10 @@ public:
             first->next = second->next;
             second->next = first;
             
-            if(prev != nullptr) prev->next = second;  // link previous pair to this one
+            if(prev != nullptr) prev->next = second;  
             
-            prev = first;          // first is now the tail of this swapped pair
-            curr = first->next;    // move to the next pair
+            prev = first;          
+            curr = first->next; 
         }
         
         return newHead;
