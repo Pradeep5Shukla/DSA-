@@ -8,8 +8,8 @@
 Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm
 
 ### 🚀 Performance
-- **Runtime:** 3 ms
-- **Memory:** 11.3 MB
+- **Runtime:** 11 ms
+- **Memory:** 11.4 MB
 
 ---
 
