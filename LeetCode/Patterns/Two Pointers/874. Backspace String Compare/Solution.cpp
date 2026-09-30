@@ -9,7 +9,7 @@ public:
             else if(s[i] == '#' && st1.size()!=0){
                 st1.pop();
             }
-            else{
+            else if(s[i] != '#'){
                 st1.push(s[i]);
             }
         }
@@ -22,7 +22,7 @@ public:
             else if(t[i] == '#' && st2.size()!=0){
                 st2.pop();
             }
-            else{
+            else if(t[i] != '#'){
                 st2.push(t[i]);
             }
         }
