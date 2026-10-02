@@ -8,7 +8,7 @@
 Array, Hash Table, Stack, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
