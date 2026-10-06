@@ -8,7 +8,7 @@
 Array, Stack, Monotonic Stack, Range Minimum/Maximum Query
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
