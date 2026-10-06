@@ -19,7 +19,7 @@ public:
         gt.push(0);
         for (int i=1;i<n;i++){
             while(gt.size()>0 && arr[gt.top()]>=arr[i]) gt.pop();
-            if(gt.size() == 0) nsi[i] = -1;
+            if(gt.size() == 0) psi[i] = -1;
             else psi[i] = gt.top();
             gt.push(i);
         }
