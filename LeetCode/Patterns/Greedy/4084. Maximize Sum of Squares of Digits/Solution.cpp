@@ -4,9 +4,13 @@ public:
         string s = "";
         if(sum>9*num) return s;
         if(sum<=9){
-            int ans = sum* int(pow(10,num-1));
+            s+=to_string(sum);
+            while(num-1>0){
+                s+='0';
+                num--;
+            }
 
-            return to_string(ans);
+            return s;
         }
         for(int i =0 ;i<num;i++){
             if(sum>=9){
