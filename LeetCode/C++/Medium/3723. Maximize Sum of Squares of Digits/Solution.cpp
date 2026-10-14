@@ -4,7 +4,7 @@ public:
         string s = "";
         if(sum>9*num) return s;
         if(sum<=9){
-            long long ans = sum*lonpow(10,num-1);
+            long long ans = sum*long long(pow(10,num-1));
 
             return to_string(ans);
         }
