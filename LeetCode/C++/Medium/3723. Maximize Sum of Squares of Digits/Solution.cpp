@@ -15,7 +15,7 @@ public:
             }
             else{
                 s+=to_string(sum);
-                s-=
+                sum-=sum;
             }
         }
         return s;
