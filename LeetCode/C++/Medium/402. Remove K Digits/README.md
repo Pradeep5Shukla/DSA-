@@ -8,8 +8,8 @@
 String, Stack, Greedy, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** 5 ms
-- **Memory:** 11.7 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
