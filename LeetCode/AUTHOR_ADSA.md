@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 11 / 65 (16.9%)
+- **Completed:** 12 / 65 (18.5%)
 
 ---
 
@@ -94,7 +94,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 ### 📂 Module  2.5: Monotonic Stack & Next Elem
 - [x] [Next Greater Element I](./C++/Easy/496. Next Greater Element I/)
 - [x] [Next Greater Element II](./C++/Medium/503. Next Greater Element II/)
-- [ ] Daily Temperatures
+- [x] [Daily Temperatures](./C++/Medium/739. Daily Temperatures/)
 - [x] [Final Prices With a Special Discount in a Shop](./C++/Easy/1570. Final Prices With a Special Discount in a Shop/)
 - [ ] 132 Pattern
 - [x] [Largest Rectangle in Histogram](./C++/Hard/84. Largest Rectangle in Histogram/)
