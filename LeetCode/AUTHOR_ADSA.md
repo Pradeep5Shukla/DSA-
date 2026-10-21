@@ -63,7 +63,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  2.1: Stack Fundamentals & Simula
 - [ ] Baseball Game
-- [x] [Validate Stack Sequences](./C++/Medium/946. Validate Stack Sequences/)
+- [x] [Validate Stack Sequences](./C++/Medium/983. Validate Stack Sequences/)
 
 ### 📂 Module  2.2: Parentheses & Bracket Patte
 - [x] [Valid Parentheses](./C++/Easy/20. Valid Parentheses/)
