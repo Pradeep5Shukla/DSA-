@@ -1,6 +1,6 @@
 # 📝 456. 132 Pattern (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/132-pattern)
+🔗 [Problem Link](https://leetcode.com/problems/132-pattern/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
