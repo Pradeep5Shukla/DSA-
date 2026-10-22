@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 12 / 65 (18.5%)
+- **Completed:** 13 / 65 (20.0%)
 
 ---
 
@@ -96,7 +96,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Next Greater Element II](./C++/Medium/503. Next Greater Element II/)
 - [x] [Daily Temperatures](./C++/Medium/739. Daily Temperatures/)
 - [x] [Final Prices With a Special Discount in a Shop](./C++/Easy/1570. Final Prices With a Special Discount in a Shop/)
-- [ ] 132 Pattern
+- [x] [132 Pattern](./C++/Medium/456. 132 Pattern/)
 - [x] [Largest Rectangle in Histogram](./C++/Hard/84. Largest Rectangle in Histogram/)
 - [x] [Trapping Rain Water](./C++/Hard/42. Trapping Rain Water/)
 

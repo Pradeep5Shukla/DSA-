@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 238 (3.4%)
+- **Completed:** 9 / 238 (3.8%)
 
 ---
 
@@ -299,7 +299,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Longest Valid Parentheses
 - [x] [Valid Parentheses](./C++/Easy/20. Valid Parentheses/)
 - [ ] Decode String
-- [ ] 132 Pattern
+- [x] [132 Pattern](./C++/Medium/456. 132 Pattern/)
 - [x] [Next Greater Element I](./C++/Easy/496. Next Greater Element I/)
 - [x] [Next Greater Element II](./C++/Medium/503. Next Greater Element II/)
 - [ ] Design Browser History
