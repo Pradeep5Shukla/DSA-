@@ -1,23 +1,18 @@
 class Solution {
 public:
     bool find132pattern(vector<int>& nums) {
-        stack<int> st;
-        int second = INT_MIN;
-
-        for (int i = nums.size() - 1; i >= 0; i--) {
-
-            if (nums[i] < second) {
-                return true;
-            }
-
-            while (!st.empty() && nums[i] > st.top()) {
-                second = st.top();
+        stack<int>st;
+        stack<int>ans;
+        for(int i=0;i<nums.size();i++){
+            while(!st.empty() && st.top()>nums[i]){
                 st.pop();
+                if(!st.empty() && ans.top()<nums[i]) return true;
             }
-
             st.push(nums[i]);
+            if(ans.empty() || ans.top()>nums[i]){
+                ans.push(nums[i]);
+            }
         }
-
         return false;
     }
 };
