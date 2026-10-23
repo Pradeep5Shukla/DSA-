@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/132-pattern/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
 ### 💡 Tags
 Array, Binary Search, Stack, Monotonic Stack, Ordered Set
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 12 ms
+- **Memory:** 70.5 MB
 
 ---
 
