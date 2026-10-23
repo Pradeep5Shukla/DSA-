@@ -2,7 +2,7 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/132-pattern/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Binary Search, Stack, Monotonic Stack, Ordered Set

@@ -96,7 +96,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [x] [Next Greater Element II](./C++/Medium/503. Next Greater Element II/)
 - [x] [Daily Temperatures](./C++/Medium/739. Daily Temperatures/)
 - [x] [Final Prices With a Special Discount in a Shop](./C++/Easy/1570. Final Prices With a Special Discount in a Shop/)
-- [x] [132 Pattern](./C++/Medium/456. 132 Pattern/)
+- [x] [132 Pattern](./Java/Medium/456. 132 Pattern/)
 - [x] [Largest Rectangle in Histogram](./C++/Hard/84. Largest Rectangle in Histogram/)
 - [x] [Trapping Rain Water](./C++/Hard/42. Trapping Rain Water/)
 
