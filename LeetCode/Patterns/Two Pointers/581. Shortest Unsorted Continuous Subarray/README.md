@@ -8,8 +8,8 @@
 Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 9 ms
+- **Memory:** 31.9 MB
 
 ---
 
