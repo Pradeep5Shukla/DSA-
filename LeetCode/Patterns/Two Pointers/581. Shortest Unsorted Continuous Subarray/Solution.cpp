@@ -8,8 +8,8 @@ public:
         if(n==1) return 0;
         int l =0;
         int r = n-1;
-        while(sorted[l] == nums[l] && l<n/2) l++;
-        while(sorted[r] == nums[r]&& ) r--;
+        while(sorted[l] == nums[l] && l<r) l++;
+        while(sorted[r] == nums[r]&& r>l) r--;
         return r-l+1;
     
     }
