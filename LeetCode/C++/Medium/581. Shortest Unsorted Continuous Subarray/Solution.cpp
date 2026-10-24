@@ -4,8 +4,6 @@ public:
         int n = nums.size();
         stack<int> st;
         int mx = 0;
-        vector<int> sorted = nums;
-        sort(sorted.begin(), sorted.end());
         if(sorted == nums) return 0;
         for(int i=0; i<n;i++){
             st.push(i);
