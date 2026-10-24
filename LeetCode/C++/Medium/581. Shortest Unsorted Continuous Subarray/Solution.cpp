@@ -9,7 +9,7 @@ public:
         int l =0;
         int r = n-1;
         while(sorted[l] == nums[l] && l<n/2) l++;
-        while(sorted[r] == nums[r]&& r>n/2) r--;
+        while(sorted[r] == nums[r]&& ) r--;
         return r-l+1;
     
     }
