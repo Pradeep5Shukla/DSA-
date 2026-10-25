@@ -10,6 +10,6 @@ public:
             }
             num=sum;
         }
-        return sum;
+        return num;
     }
 };
