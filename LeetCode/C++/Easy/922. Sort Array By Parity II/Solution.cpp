@@ -10,9 +10,7 @@ public:
             while(l<n &&(nums[l]%2==0 && l%2 == 0  || nums[l]%2 != 0 && l%2!=0)) l++;
             while(r>=0 && (nums[r]%2==0 && r%2 == 0  || nums[r]%2 != 0 && r%2!=0)) r--;
 
-            // if((nums[l]%2==0 && l%2!=0)  && (nums[r]%2!=0 && r%2==0)){
-            //     swap(nums[l],nums[r]);
-            // }
+            
             if(r>=0 && l<n) swap(nums[l],nums[r]);
 
             
