@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 10 / 238 (4.2%)
+- **Completed:** 11 / 238 (4.6%)
 
 ---
 
@@ -192,7 +192,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Rotate String
 - [ ] First Palindromic String
 - [ ] Reverse Only Letters
-- [ ] Reverse Vowels of a String
+- [x] [Reverse Vowels of a String](./C++/Easy/345. Reverse Vowels of a String/)
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Jewels and Stones
 - [ ] Find the Difference
