@@ -5,14 +5,18 @@ public:
         int l = 0;
         int r = n-1;
         while(r>l){
-            if(r>l && (nums[l]%2 != 0 &&nums[r]%2 == 0)){
+            if(nums[l]%2 != 0 &&nums[r]%2 == 0){
                 swap(nums[l],nums[r]);
                 l++;
                 r--;
             }
-            if(r>l && nums[l]%2==0){
+            else if (nums[l]%2==0){
                 l++;
             }
+            else if (nums[l]%2!=0 && nums[r]!=0){
+                r--;
+            }
+            
         }
         return nums;
     }
