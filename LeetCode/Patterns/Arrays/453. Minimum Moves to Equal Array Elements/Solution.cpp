@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int count = 0;
         sort(nums.begin(),nums.end());
-        if(n==1) return true;
+        if(n==1) return ;
         for(int i =0;i<n;i++){
             int mn = smallest(nums);
             count += nums[i]-mn;
