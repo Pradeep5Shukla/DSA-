@@ -5,8 +5,8 @@ public:
         int count = 0;
         sort(nums.begin(),nums.end());
         if(n==1) return 0;
+        int mn = smallest(nums);
         for(int i =0;i<n;i++){
-            int mn = smallest(nums);
             count += nums[i]-mn;
         }
         return count;
