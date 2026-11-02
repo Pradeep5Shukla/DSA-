@@ -7,14 +7,13 @@ public:
         while(i<=j){
             if(s[i] == s[j]){
                 while(i<=j && s[i]==s[i+1]) i++;
-                while(i<=j && s[i]==s[i+1]) ;
+                while(i<=j && s[j]==s[j-1]) j--;
                 i++;
                 j--;
             }
             else break;
         }
-        if(i>=j) return 0;
+        if(i==j) return 0;
         else return j-i+1;
-        
     }
 };
