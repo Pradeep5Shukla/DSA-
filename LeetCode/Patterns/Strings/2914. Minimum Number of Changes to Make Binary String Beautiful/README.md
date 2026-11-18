@@ -1,6 +1,6 @@
 # 📝 2914. Minimum Number of Changes to Make Binary String Beautiful (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/?envType=daily-question&envId=2026-11-18)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
