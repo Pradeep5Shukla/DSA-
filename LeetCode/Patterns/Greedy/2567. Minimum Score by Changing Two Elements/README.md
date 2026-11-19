@@ -1,6 +1,6 @@
 # 📝 2567. Minimum Score by Changing Two Elements (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-score-by-changing-two-elements)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-score-by-changing-two-elements/?envType=daily-question&envId=2026-11-19)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
