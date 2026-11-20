@@ -23,6 +23,7 @@ string reversenum(string s){
         }
         for(int i =0;i<n;i++){
             string rev = reversenum(words[i]);
+            
             if(s.find(rev)!=s.end()){
                 count++;
             }
