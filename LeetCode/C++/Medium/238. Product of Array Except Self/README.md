@@ -21,7 +21,7 @@ The product of any prefix or suffix of  `nums`  is  **guaranteed**  to fit in a 
 
 You must write an algorithm that runs in  `O(n)`  time and without using the division operation.
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,3,4]
