@@ -1,6 +1,6 @@
 # 📝 561. Array Partition (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/array-partition/)
+🔗 [Problem Link](https://leetcode.com/problems/array-partition)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -17,7 +17,7 @@ Array, Greedy, Sorting, Counting Sort
 
 Given an integer array  `nums`  of  `2n`  integers, group these integers into  `n`  pairs  `(a1, b1), (a2, b2), ..., (an, bn)`  such that the sum of  `min(ai, bi)`  for all  `i`  is  **maximized** . Return *the maximized sum* .
 
-**Example 1:**
+OriginalC++ **Example 1:**
 
 ```
 Input: nums = [1,4,3,2]
